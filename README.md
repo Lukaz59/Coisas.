@@ -1,2 +1,2 @@
 # Coisas.
-Coisas alwatorias
+Coisas aleatórias
